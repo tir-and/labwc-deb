@@ -1,4 +1,4 @@
 
-Apps to install: 
+### Apps to install: 
 Easy Effects - Simple audio effects 
-https://github.com/wwmm/easyeffects 
+(https://github.com/wwmm/easyeffects)
