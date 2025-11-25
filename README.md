@@ -1,4 +1,1 @@
-
-### Apps to install: 
-Easy Effects - Simple audio effects  
-https://github.com/wwmm/easyeffects
+One day I will add a Openbox desktop setup insired Wayland desktop built on labwc here
